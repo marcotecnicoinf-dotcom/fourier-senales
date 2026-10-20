@@ -1,6 +1,6 @@
 # Simulación y análisis de señales con la Transformada de Fourier
 
-Proyecto de la materia de Lenguaje Ensamblador. Autor: Marco Antonio Contreras.
+Proyecto de la materia de Señales y sistemas. Autor: Marco Antonio Contreras.
 
 ## Descripción
 Este código genera señales elementales (senoidal, pulso rectangular y escalón),
